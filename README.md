@@ -1,5 +1,7 @@
 # 构建过程
-1.克隆项目
+1.克隆项目到本地
+
+如果仅构建最新版本
 `git clone --depth=1 https://github.com/yueh0607/LLVM`
 
 
